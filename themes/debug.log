@@ -1,0 +1,189 @@
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-02-26T16:07:10.462Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Working directory: \u001b[35m~/Git/blog/hexoBlogSource/\u001b[39m","time":"2017-02-26T16:07:10.470Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Config loaded: \u001b[35m~/Git/blog/hexoBlogSource/_config.yml\u001b[39m","time":"2017-02-26T16:07:10.657Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-02-26T16:07:10.677Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-02-26T16:07:10.680Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-02-26T16:07:10.685Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-02-26T16:07:10.686Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-02-26T16:07:10.690Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-02-26T16:07:10.693Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-02-26T16:07:10.703Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-02-26T16:07:10.803Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Loading database.","time":"2017-02-26T16:07:10.823Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":30,"msg":"Start processing","time":"2017-02-26T16:07:10.957Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2017-02-26T16:07:11.076Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35m_posts/webstrom-encoding.md\u001b[39m","time":"2017-02-26T16:07:11.076Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mimages/2017-02-26 20-19-31.png\u001b[39m","time":"2017-02-26T16:07:11.077Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/style.less\u001b[39m","time":"2017-02-26T16:07:11.346Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Theme config loaded.","time":"2017-02-26T16:07:11.393Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-02-26T16:07:11.409Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.eot\u001b[39m","time":"2017-02-26T16:07:11.410Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.svg\u001b[39m","time":"2017-02-26T16:07:11.412Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.ttf\u001b[39m","time":"2017-02-26T16:07:11.414Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/fonts/icomoon.woff\u001b[39m","time":"2017-02-26T16:07:11.414Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/fonts/selection.json\u001b[39m","time":"2017-02-26T16:07:11.414Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/js/app.js\u001b[39m","time":"2017-02-26T16:07:11.417Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/js/jquery.fitvids.js\u001b[39m","time":"2017-02-26T16:07:11.431Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/js/lovewallpaper.json\u001b[39m","time":"2017-02-26T16:07:11.431Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35msource/js/search.js\u001b[39m","time":"2017-02-26T16:07:11.432Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2017-02-26T16:07:11.456Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2017-02-26T16:07:11.457Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2017-02-26T16:07:11.457Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2017-02-26T16:07:11.457Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2017-02-26T16:07:11.457Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2017-02-26T16:07:11.457Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2017-02-26T16:07:11.458Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/about.ejs\u001b[39m","time":"2017-02-26T16:07:11.461Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/categories.ejs\u001b[39m","time":"2017-02-26T16:07:11.492Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/friendly-links.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/tagcloud.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/categories.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2017-02-26T16:07:11.493Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header.ejs\u001b[39m","time":"2017-02-26T16:07:11.494Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/loading.ejs\u001b[39m","time":"2017-02-26T16:07:11.495Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post.ejs\u001b[39m","time":"2017-02-26T16:07:11.495Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/scripts.ejs\u001b[39m","time":"2017-02-26T16:07:11.495Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/side.ejs\u001b[39m","time":"2017-02-26T16:07:11.495Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-02-26T16:07:11.670Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-02-26T16:07:11.671Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-02-26T16:07:11.671Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-02-26T16:07:11.671Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-02-26T16:07:11.671Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-02-26T16:07:11.672Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-02-26T16:07:11.673Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2017-02-26T16:07:11.681Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Database saved","time":"2017-02-26T16:07:11.705Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2017-02-26T16:07:19.125Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":30,"msg":"Catch you later","time":"2017-02-26T16:07:57.278Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":20222,"level":20,"msg":"Database saved","time":"2017-02-26T16:07:57.293Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-02-26T16:23:27.053Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Working directory: \u001b[35m~/Git/blog/hexoBlogSource/\u001b[39m","time":"2017-02-26T16:23:27.060Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Config loaded: \u001b[35m~/Git/blog/hexoBlogSource/_config.yml\u001b[39m","time":"2017-02-26T16:23:27.615Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Script loaded: \u001b[35mthemes/hexo-theme-hiero/scripts/fancybox.js\u001b[39m","time":"2017-02-26T16:23:27.692Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Script loaded: \u001b[35mthemes/hexo-theme-hiero/scripts/hierarchical-categories.js\u001b[39m","time":"2017-02-26T16:23:27.693Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-02-26T16:23:27.709Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-02-26T16:23:27.717Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-02-26T16:23:27.718Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-02-26T16:23:27.738Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-02-26T16:23:27.745Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-02-26T16:23:27.782Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-02-26T16:23:28.363Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-02-26T16:23:28.381Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Loading database.","time":"2017-02-26T16:23:28.420Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":30,"msg":"Start processing","time":"2017-02-26T16:23:28.591Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2017-02-26T16:23:28.839Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35m_posts/webstrom-encoding.md\u001b[39m","time":"2017-02-26T16:23:28.840Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mimages/2017-02-26 20-19-31.png\u001b[39m","time":"2017-02-26T16:23:28.841Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Theme config loaded.","time":"2017-02-26T16:23:29.196Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-02-26T16:23:29.200Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/comment.css\u001b[39m","time":"2017-02-26T16:23:29.200Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/glyphs.css\u001b[39m","time":"2017-02-26T16:23:29.201Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/hiero.css\u001b[39m","time":"2017-02-26T16:23:29.201Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/style.styl\u001b[39m","time":"2017-02-26T16:23:29.201Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/blank.gif\u001b[39m","time":"2017-02-26T16:23:29.202Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/fancybox_loading.gif\u001b[39m","time":"2017-02-26T16:23:29.202Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/fancybox_loading@2x.gif\u001b[39m","time":"2017-02-26T16:23:29.204Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/fancybox_overlay.png\u001b[39m","time":"2017-02-26T16:23:29.204Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/fancybox_sprite.png\u001b[39m","time":"2017-02-26T16:23:29.207Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/fancybox_sprite@2x.png\u001b[39m","time":"2017-02-26T16:23:29.210Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/jquery.fancybox.css\u001b[39m","time":"2017-02-26T16:23:29.211Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/jquery.fancybox.js\u001b[39m","time":"2017-02-26T16:23:29.211Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/jquery.fancybox.pack.js\u001b[39m","time":"2017-02-26T16:23:29.215Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/insight.js\u001b[39m","time":"2017-02-26T16:23:29.216Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/main.js\u001b[39m","time":"2017-02-26T16:23:29.217Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/script.js\u001b[39m","time":"2017-02-26T16:23:29.217Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/totop.js\u001b[39m","time":"2017-02-26T16:23:29.217Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/browser-support.png\u001b[39m","time":"2017-02-26T16:23:29.218Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/bootstrap.css\u001b[39m","time":"2017-02-26T16:23:29.251Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/bootstrap.js\u001b[39m","time":"2017-02-26T16:23:29.251Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/js/jquery-3.1.1.min.js\u001b[39m","time":"2017-02-26T16:23:29.252Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/archive.ejs\u001b[39m","time":"2017-02-26T16:23:29.310Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/categories.ejs\u001b[39m","time":"2017-02-26T16:23:29.317Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/category.ejs\u001b[39m","time":"2017-02-26T16:23:29.317Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/index.ejs\u001b[39m","time":"2017-02-26T16:23:29.317Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/layout.ejs\u001b[39m","time":"2017-02-26T16:23:29.321Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/page.ejs\u001b[39m","time":"2017-02-26T16:23:29.321Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/post.ejs\u001b[39m","time":"2017-02-26T16:23:29.321Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/tag.ejs\u001b[39m","time":"2017-02-26T16:23:29.321Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/tags.ejs\u001b[39m","time":"2017-02-26T16:23:29.322Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2017-02-26T16:23:29.357Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2017-02-26T16:23:29.359Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2017-02-26T16:23:29.359Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/es.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/fr.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/nl.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/no.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2017-02-26T16:23:29.360Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2017-02-26T16:23:29.361Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-TW.yml\u001b[39m","time":"2017-02-26T16:23:29.361Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/FontAwesome.otf\u001b[39m","time":"2017-02-26T16:23:29.362Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/athemes-glyphs.woff\u001b[39m","time":"2017-02-26T16:23:29.362Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/fontawesome-webfont.eot\u001b[39m","time":"2017-02-26T16:23:29.363Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/fontawesome-webfont.woff\u001b[39m","time":"2017-02-26T16:23:29.364Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/images/favicon.ico\u001b[39m","time":"2017-02-26T16:23:29.366Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/images/rocket.png\u001b[39m","time":"2017-02-26T16:23:29.367Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/fancybox_buttons.png\u001b[39m","time":"2017-02-26T16:23:29.367Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2017-02-26T16:23:29.367Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2017-02-26T16:23:29.368Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/jquery.fancybox-media.js\u001b[39m","time":"2017-02-26T16:23:29.369Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2017-02-26T16:23:29.369Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/fancybox/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2017-02-26T16:23:29.370Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/Hiero_home.png\u001b[39m","time":"2017-02-26T16:23:29.371Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/logo-preview.jpg\u001b[39m","time":"2017-02-26T16:23:29.372Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2017-02-26T16:23:29.384Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/mobile-preview.png\u001b[39m","time":"2017-02-26T16:23:29.384Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after-footer.ejs\u001b[39m","time":"2017-02-26T16:23:29.415Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive-post.ejs\u001b[39m","time":"2017-02-26T16:23:29.419Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/archive.ejs\u001b[39m","time":"2017-02-26T16:23:29.420Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/article.ejs\u001b[39m","time":"2017-02-26T16:23:29.420Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/baidu-analytics.ejs\u001b[39m","time":"2017-02-26T16:23:29.420Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/cnzz-analytics.ejs\u001b[39m","time":"2017-02-26T16:23:29.421Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/comment.ejs\u001b[39m","time":"2017-02-26T16:23:29.421Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/facebook-sdk.ejs\u001b[39m","time":"2017-02-26T16:23:29.421Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.ejs\u001b[39m","time":"2017-02-26T16:23:29.421Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/gauges-analytics.ejs\u001b[39m","time":"2017-02-26T16:23:29.422Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/google-analytics.ejs\u001b[39m","time":"2017-02-26T16:23:29.422Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/head.ejs\u001b[39m","time":"2017-02-26T16:23:29.422Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/header-post.ejs\u001b[39m","time":"2017-02-26T16:23:29.422Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/mobile-nav.ejs\u001b[39m","time":"2017-02-26T16:23:29.423Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/sidebar.ejs\u001b[39m","time":"2017-02-26T16:23:29.423Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tencent-analytics.ejs\u001b[39m","time":"2017-02-26T16:23:29.424Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/archive.ejs\u001b[39m","time":"2017-02-26T16:23:29.425Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/category.ejs\u001b[39m","time":"2017-02-26T16:23:29.425Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/recent_posts.ejs\u001b[39m","time":"2017-02-26T16:23:29.425Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/search.ejs\u001b[39m","time":"2017-02-26T16:23:29.426Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/social.ejs\u001b[39m","time":"2017-02-26T16:23:29.426Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/tag.ejs\u001b[39m","time":"2017-02-26T16:23:29.426Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/tagcloud.ejs\u001b[39m","time":"2017-02-26T16:23:29.426Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/search/baidu.ejs\u001b[39m","time":"2017-02-26T16:23:29.426Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/search/index-mobile.ejs\u001b[39m","time":"2017-02-26T16:23:29.431Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/search/index.ejs\u001b[39m","time":"2017-02-26T16:23:29.432Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/search/insight.ejs\u001b[39m","time":"2017-02-26T16:23:29.432Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/search/swiftype.ejs\u001b[39m","time":"2017-02-26T16:23:29.432Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/fonts/fontawesome-webfont.svg\u001b[39m","time":"2017-02-26T16:23:29.447Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/category.ejs\u001b[39m","time":"2017-02-26T16:23:29.463Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/date.ejs\u001b[39m","time":"2017-02-26T16:23:29.464Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/gallery.ejs\u001b[39m","time":"2017-02-26T16:23:29.464Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/mathjax.ejs\u001b[39m","time":"2017-02-26T16:23:29.464Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/nav.ejs\u001b[39m","time":"2017-02-26T16:23:29.464Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/tag.ejs\u001b[39m","time":"2017-02-26T16:23:29.464Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post/title.ejs\u001b[39m","time":"2017-02-26T16:23:29.465Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/css/images/pose.jpg\u001b[39m","time":"2017-02-26T16:23:29.475Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/code-default-preview.png\u001b[39m","time":"2017-02-26T16:23:29.477Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Processed: \u001b[35msource/preview/code-theme.jpg\u001b[39m","time":"2017-02-26T16:23:29.481Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-02-26T16:23:30.168Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-02-26T16:23:30.168Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-02-26T16:23:30.168Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-02-26T16:23:30.169Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-02-26T16:23:30.169Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-02-26T16:23:30.170Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-02-26T16:23:30.172Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2017-02-26T16:23:30.183Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Database saved","time":"2017-02-26T16:23:30.210Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Rendering index: \u001b[35mindex.html\u001b[39m","time":"2017-02-26T16:24:34.696Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":30,"msg":"Catch you later","time":"2017-02-26T16:25:24.175Z","v":0}
+{"name":"hexo","hostname":"camh-Satellite-L600","pid":21120,"level":20,"msg":"Database saved","time":"2017-02-26T16:25:24.198Z","v":0}
